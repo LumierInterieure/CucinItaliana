@@ -1,0 +1,611 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@500&family=Great+Vibes&family=Satisfy&display=swap');
+
+
+/********************Media Queries*******************/
+
+
+@media screen and (max-width: 3680px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 5em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 5em;
+}
+
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 1.15em;
+}
+}
+
+
+@media screen and (max-width: 2920px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 4.75em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 4.75em;
+}
+
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 1.1em;
+}
+}
+
+
+@media screen and (max-width: 2560px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 3.5em;
+}
+               footer 
+               {
+                 font-size: 1.05em;
+               }
+
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 3.5em;
+}
+
+#texte
+{
+               font-size: 1.5em;
+}
+ footer 
+  {
+    font-size: 1em;
+  }
+}
+
+
+@media screen and (max-width: 2400px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 3.25em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 3.25em;
+}
+
+#texte
+{
+               font-size: 1.5em;
+}
+footer 
+{
+  font-size: 0.95em;
+}
+}
+
+
+@media screen and (max-width: 2240px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 3em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 3em;
+}
+
+#texte
+{
+               font-size: 1.7em;
+}
+footer 
+{
+  font-size: 0.90em;
+}
+}
+
+
+@media screen and (max-width: 1920px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 3em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 3em;
+}
+
+#texte
+{
+               font-size: 1.7em;
+}
+footer 
+{
+  font-size: 0.85em;
+}
+}
+
+
+@media screen and (max-width: 1600px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 2.5em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 2.5em;
+}
+
+#texte
+{
+               font-size: 1.6em;
+}
+footer 
+{
+  font-size: 0.80em;
+}
+}
+
+
+@media screen and (max-width: 1280px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 2.35em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 2.35em;
+}
+
+#texte
+{
+               font-size: 1.35em;
+}
+footer 
+{
+  font-size: 0.85em;
+}
+}
+
+
+@media screen and (max-width: 1120px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 2.1em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 2.1em;
+}
+
+#texte
+{
+               font-size: 1.35em;
+}
+footer 
+{
+  font-size: 0.80em;
+}
+}
+
+
+@media screen and (max-width: 960px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 1.85em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 1.85em;
+}
+
+#texte
+{
+               font-size: 1.1em;
+}
+footer 
+{
+  font-size: 0.75em;
+}
+}
+
+
+@media screen and (max-width: 800px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 1.6em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 1.6em;
+}
+
+#texte
+{
+               font-size: 1.1em;
+}
+footer 
+{
+  font-size: 0.70em;
+}
+}
+
+
+@media screen and (max-width: 640px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 1.35em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 1.35em;
+}
+
+#texte
+{
+               font-size: 1.1em;
+}
+footer 
+{
+  font-size: 0.65em;
+}
+}
+
+
+@media screen and (max-width: 560px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 1.05em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 1.05em;
+}
+
+#texte
+{
+               font-size: 0.95em;
+}
+footer 
+{
+  font-size: 0.60em;
+}
+}
+
+
+@media screen and (max-width: 480px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 1em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 1em;
+}
+
+#texte
+{
+               font-size: 0.85em;
+}
+footer 
+{
+  font-size: 0.55em;
+}
+}
+
+
+@media screen and (max-width: 400px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 0.95em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 0.95em;
+}
+
+#texte
+{
+               font-size: 0.85em;
+}
+footer 
+{
+  font-size: 0.50em;
+}
+}
+
+
+@media screen and (max-width: 360px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 0.90em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 0.90em;
+}
+
+#texte
+{
+               font-size: 0.85em;
+}
+footer 
+{
+  font-size: 0.45em;
+}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 0.85em;
+               
+}
+
+
+#premierTitre, #choix, #texte1
+{
+               font-size: 0.85em;
+}
+
+#texte
+{
+               font-size: 0.85em;
+}
+footer 
+{
+  font-size: 0.40em;
+}
+}
+
+
+
+
+/********************Barre Fixe*******************/
+
+
+
+#barreFixe
+{
+               background-color :rgb(112, 168, 112);
+               border-top: #000000 2px solid;
+               border-bottom: #ffffff 2px solid;
+               position : fixed;
+               opacity: 90%;
+               width: 101%;
+               margin-left: -1%;
+}
+
+
+
+#nomDesCreateurs a
+{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+#nomDesCreateurs
+{
+               font-family: Satisfy, Arial, Helvetica, sans-serif;
+               text-align: center;
+               width: 20%;
+               margin-left: 40%;
+               color: #ffffff;
+}
+
+/********************Aspect visuel du fond******/
+
+body
+{
+               background-color: #000000d8;
+}
+
+/********************Texte*******************/
+
+
+#imagePrincipale, #texte1
+{
+  font-family: Dancing Script, 'Courier New', Courier, monospace;
+  background-color: aliceblue;
+  margin-top: 9%;
+  text-align: center;
+  background: url(img/italieCuisine.jpg) no-repeat fixed 50%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  width: 75%;
+  margin-left: 12.5%;
+  border: 2px #ffffff solid;
+  border-radius: 10px;
+}
+
+#texte1
+{
+  color: white;
+  text-shadow: 5px 4px 3px #000000;
+  margin-bottom: 2%;
+  margin-top: 10%;
+  padding-bottom: 5%;
+}
+
+#lItalieDansUnPlat
+{
+  text-shadow: 5px 4px 3px #b9fd80;
+  margin-top: 20%;
+}
+
+#premierTrait
+{
+    background-color: #000000;
+    width: 15%;
+    height: 2px;
+    box-shadow: 5px 5px 9px 5px #ffffff;
+    margin-left: 42.5%;
+    margin-top: 15%;
+}
+
+#recettesItaliennes
+{
+  text-shadow: 5px 4px 3px #ff3c3c;
+  margin-top: 15%;
+  margin-bottom: 20%;
+  color: rgb(0, 0, 0);
+}
+
+
+#nav
+{
+  display: flex;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  margin-bottom: 15%;
+  margin-top: -0.10%;
+  background-color: rgba(14, 28, 41, 0.514);
+  border: #ffffff solid 2px;
+  border-radius: 10px;
+  width: 80%;
+  margin-left: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+li
+{
+  padding-left: 8%;
+  list-style-type: none;
+  font-family: Cookie, 'Courier New', Courier, monospace;
+}
+
+ #choix
+{
+  font-family: Dancing Script, 'Courier New', Courier, monospace;
+  color: #ffffff;
+  text-align: center;
+  width: 65%;
+  margin-left: 17.5%;
+  background-color: rgba(14, 28, 41, 0.514);
+  padding-bottom: 1%;
+  padding-top: 0.75%;
+  border: #ffffff solid 2px;
+}
+
+
+.pestoGnocchi a
+{
+  color: #2dbe39;
+}
+
+.ravioliBolognaise a
+{
+  color: #ffffff;
+}
+
+.lasagnesPizze a
+{
+  color: #c01717;
+}
+
+
+
+/****************footer********************/
+
+#piedDePage
+{
+               text-align: center;
+}
+
+footer {
+               padding: 2% 2%;
+               background: #a1a1a1;
+               color: white;
+               width: 101%;
+               margin-left: -2%;
+               margin-bottom: -2%;
+               height: 70px;
+             }
+
+
+             img
+             {
+              float: left;
+              width: 3%;
+              padding-left: 3%;
+             }
