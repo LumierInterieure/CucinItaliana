@@ -442,7 +442,7 @@ footer
 #barreFixe
 {
                background-color :rgb(112, 168, 112);
-               border-top: #000000 2px solid;
+               border-top: #ffffff 2px solid;
                border-bottom: #ffffff 2px solid;
                position : fixed;
                opacity: 90%;
@@ -476,7 +476,7 @@ a
 
 body
 {
-               background-color: #000000d8;
+               background-color: #628a41d8;
                width: 100%;
 }
 
@@ -554,19 +554,20 @@ ul
 
 #les2Menus_v2
 {
-  padding-left: 15%;
+  width: 20%;
+margin-left: 32%;
+margin-right: 32%;
 }
 
  #nav
  {
   width: 100%;
-  margin-left: 8%;
+  margin-left: 12%;
  }
 
 #nav2
 {
   width: 100%;
-  margin-left: 5%;
 }
 
 #pizze
@@ -622,8 +623,8 @@ footer {
                padding: 2% 2%;
                background: #a1a1a1;
                color: white;
-               width: 103%;
-               margin-left: -2%;
+               width: 100%;
+               margin-left: -1%;
                margin-bottom: -2%;
                height: 70px;
              }
