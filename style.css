@@ -530,10 +530,9 @@ body
   color: rgb(0, 0, 0);
 }
 
-
-#nav
+#les2Menus
 {
-  display: flex;
+  
   padding-top: 3%;
   padding-bottom: 5%;
   margin-bottom: 15%;
@@ -542,9 +541,31 @@ body
   border: #ffffff solid 2px;
   border-radius: 10px;
   width: 80%;
+  margin-left: 10%;
+}
+
+#nav, #nav2 
+{
+  display: flex;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+ #nav
+ {
+  width: 100%;
+  margin-left: 8%;
+ }
+
+#nav2
+{
+  width: 100%;
   margin-left: 5%;
-  padding-left: 5%;
-  padding-right: 5%;
+}
+
+#pizze
+{
+  margin-left: -8%;
 }
 
 li
@@ -582,7 +603,6 @@ li
 {
   color: #c01717;
 }
-
 
 
 /****************footer********************/
