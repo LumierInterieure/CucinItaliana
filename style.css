@@ -486,28 +486,34 @@ body
 #imagePrincipale, #texte1
 {
   font-family: Dancing Script, 'Courier New', Courier, monospace;
-  background-color: aliceblue;
-  margin-top: 9%;
+  margin-top: 10%;
   text-align: center;
   background: url(img/italieCuisine.png) no-repeat 50%;
   padding-top: 3%;
   padding-bottom: 2%;
   width: 75%;
-  margin-left: 12.5%;
+  margin-left: 7.5%;
   border: 2px #ffffff solid;
   border-radius: 50%;
   background-size: 100%;
-  background-position: 55%;
-}
+  padding-top: 9%;
+  padding-left: 4%;
+  padding-right: 4%;
+} 
 
 #texte1
 {
-  color: white;
   text-shadow: 2px 2px 2px #000000;
   margin-bottom: 2%;
   margin-top: 10%;
-  padding-bottom: 7.5%;
-  padding-top: 7.5%;
+  padding-bottom: 9%;
+  padding-top: 9%;
+  padding-left: 4%;
+  padding-right: 4%;
+  width: 75%;
+  margin-left: 10.5;
+  background: url(img/italieCuisine.png) no-repeat 50%;
+  background-size: 100%;
 }
 
 #lItalieDansUnPlat
@@ -552,14 +558,12 @@ body
 
 ul
 {
-  padding-left: 10%;
-  padding-right: 10%;
+  width: 50%;
+  min-width: 10%;
+  padding-left: 9%;
+  padding-right: 11%;
 }
 
-#pizze
-{
-  margin-left: -8%;
-}
 
 li
 {
