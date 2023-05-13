@@ -446,8 +446,8 @@ footer
                border-bottom: #ffffff 2px solid;
                position : fixed;
                opacity: 90%;
-               width: 101%;
-               margin-left: -1%;
+               width: 102%;
+               margin-left: -2%;
 }
 
 
@@ -477,6 +477,7 @@ a
 body
 {
                background-color: #000000d8;
+               width: 100%;
 }
 
 /********************Texte*******************/
@@ -542,13 +543,18 @@ body
   border-radius: 10px;
   width: 80%;
   margin-left: 10%;
+  
 }
 
-#nav, #nav2 
+ul
 {
   display: flex;
+  
+}
+
+#les2Menus_v2
+{
   padding-left: 15%;
-  padding-right: 15%;
 }
 
  #nav
