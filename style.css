@@ -503,7 +503,8 @@ body
 
 #texte1
 {
-  text-shadow: 2px 2px 2px #000000;
+  text-shadow: 3px 3px 3px #000000;
+  color: rgb(255, 243, 18);
   margin-bottom: 2%;
   margin-top: 10%;
   padding-bottom: 9%;
@@ -540,7 +541,7 @@ body
   color: rgb(0, 0, 0);
 }
 
-#les2Menus
+#les3Menus
 {
   
   padding-top: 3%;
@@ -585,17 +586,17 @@ li
 }
 
 
-.pestoGnocchi
+.recetteVert
 {
   color: #2dbe39;
 }
 
-.bolognaiseLasagnes
+.recetteBlanc
 {
   color: #ffffff;
 }
 
-.ravioliPizze
+.recetteRouge
 {
   color: #c01717;
 }
