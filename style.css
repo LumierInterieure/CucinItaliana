@@ -503,8 +503,8 @@ body
 
 #texte1
 {
-  text-shadow: 3px 3px 3px #000000;
-  color: rgb(255, 243, 18);
+  text-shadow: 2px 2px 3px #000000;
+  color: rgb(0, 0, 0);
   margin-bottom: 2%;
   margin-top: 10%;
   padding-bottom: 9%;

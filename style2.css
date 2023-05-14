@@ -507,10 +507,12 @@ p
   background-color: rgb(0, 0, 0);
   margin-top: -3.5%;
   width: 80%;
-  margin-left: 10%;
+  margin-left: 6%;
   border-radius: 10px;
   padding-top: 2%;
   padding-bottom: 4%;
+  padding-left: 4%;
+  padding-right: 4%;
   color: aliceblue;
   border: #ffffff solid 2px;
 }
@@ -519,7 +521,7 @@ p
 {
   width: 80%;
   margin-left: 10%;
-  margin-top: -3%;
+  margin-top: -1.7%;
   border-radius: 6px;
   border: 2px solid #ffffff;
 }
