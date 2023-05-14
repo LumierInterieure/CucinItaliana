@@ -13,12 +13,12 @@
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 5em;
 }
 
-#texte
+#texte1
 {
                font-size: 1.5em;
 }
@@ -38,12 +38,12 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 4.75em;
 }
 
-#texte
+#texte1
 {
                font-size: 1.5em;
 }
@@ -67,12 +67,12 @@ footer
 
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 3.5em;
 }
 
-#texte
+#texte1
 {
                font-size: 1.5em;
 }
@@ -92,12 +92,12 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 3.25em;
 }
 
-#texte
+#texte1
 {
                font-size: 1.5em;
 }
@@ -117,12 +117,12 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 3em;
 }
 
-#texte
+#texte1
 {
                font-size: 1.7em;
 }
@@ -142,14 +142,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 3em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.7em;
+               font-size: 1.9em;
 }
 footer 
 {
@@ -167,14 +167,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 2.5em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.6em;
+               font-size: 1.8em;
 }
 footer 
 {
@@ -192,14 +192,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 2.35em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.35em;
+               font-size: 1.60em;
 }
 footer 
 {
@@ -217,14 +217,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 2.1em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.35em;
+               font-size: 1.60em;
 }
 footer 
 {
@@ -242,14 +242,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 1.85em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.1em;
+               font-size: 1.4em;
 }
 footer 
 {
@@ -267,14 +267,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 1.6em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.1em;
+               font-size: 1.4em;
 }
 footer 
 {
@@ -292,14 +292,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 1.35em;
 }
 
-#texte
+#texte1
 {
-               font-size: 1.1em;
+               font-size: 1.4em;
 }
 footer 
 {
@@ -317,14 +317,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 1.05em;
 }
 
-#texte
+#texte1
 {
-               font-size: 0.95em;
+               font-size: 1.5em;
 }
 footer 
 {
@@ -342,14 +342,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 1em;
 }
 
-#texte
+#texte1
 {
-               font-size: 0.85em;
+               font-size: 1.1em;
 }
 footer 
 {
@@ -362,19 +362,19 @@ footer
 {
 #nomDesCreateurs, li 
 {
-               font-size: 0.95em;
+               font-size: 1.1em;
                
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 0.95em;
 }
 
-#texte
+#texte1
 {
-               font-size: 0.85em;
+               font-size: 1.05em;
 }
 footer 
 {
@@ -392,14 +392,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 0.90em;
 }
 
-#texte
+#texte1
 {
-               font-size: 0.85em;
+               font-size: 1em;
 }
 footer 
 {
@@ -417,14 +417,14 @@ footer
 }
 
 
-#premierTitre, #choix, #texte1
+#premierTitre, #choix
 {
                font-size: 0.85em;
 }
 
-#texte
+#texte1
 {
-               font-size: 0.85em;
+               font-size: 1em;
 }
 footer 
 {
