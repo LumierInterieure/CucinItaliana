@@ -18,7 +18,7 @@
                font-size: 5em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 3.5em;
 }
@@ -43,7 +43,7 @@ footer
                font-size: 4.75em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 3.3em;
 }
@@ -72,7 +72,7 @@ footer
                font-size: 3.5em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 3.1em;
 }
@@ -97,7 +97,7 @@ footer
                font-size: 3.25em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 3.1em;
 }
@@ -122,7 +122,7 @@ footer
                font-size: 3em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 3em;
 }
@@ -147,7 +147,7 @@ footer
                font-size: 3em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 2.7em;
 }
@@ -172,7 +172,7 @@ footer
                font-size: 2.5em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 2.7em;
 }
@@ -197,7 +197,7 @@ footer
                font-size: 2.35em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 2.5em;
 }
@@ -222,7 +222,7 @@ footer
                font-size: 2.1em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 2em;
 }
@@ -247,7 +247,7 @@ footer
                font-size: 1.85em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.9em;
 }
@@ -272,7 +272,7 @@ footer
                font-size: 1.6em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.7em;
 }
@@ -297,7 +297,7 @@ footer
                font-size: 1.35em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.7em;
 }
@@ -322,7 +322,7 @@ footer
                font-size: 1.05em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.6em;
 }
@@ -347,7 +347,7 @@ footer
                font-size: 1em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.5em;
 }
@@ -372,7 +372,7 @@ footer
                font-size: 0.95em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1.2em;
 }
@@ -397,7 +397,7 @@ footer
                font-size: 0.90em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1em;
 }
@@ -422,10 +422,11 @@ footer
                font-size: 0.85em;
 }
 
-#texte1
+#texte1, #citation
 {
                font-size: 1em;
 }
+
 footer 
 {
   font-size: 0.40em;
@@ -583,6 +584,14 @@ li
   padding-bottom: 1%;
   padding-top: 0.75%;
   border: #ffffff solid 2px;
+}
+
+
+#citation
+{
+  text-align: center;
+  font-family: Dancing Script, 'Courier New', Courier, monospace;
+  color: #3f537e;
 }
 
 
