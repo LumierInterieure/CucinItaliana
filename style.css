@@ -26,6 +26,11 @@ footer
 {
   font-size: 1.15em;
 }
+
+img
+{
+width: 2.5%;
+}
 }
 
 
@@ -50,6 +55,11 @@ footer
 footer 
 {
   font-size: 1.1em;
+}
+
+img
+{
+width: 2.25%;
 }
 }
 
@@ -80,6 +90,11 @@ footer
   {
     font-size: 1em;
   }
+  
+img
+{
+width: 2.25%;
+}
 }
 
 
@@ -104,6 +119,11 @@ footer
 footer 
 {
   font-size: 0.95em;
+}
+
+img
+{
+width: 2.75%;
 }
 }
 
@@ -130,6 +150,11 @@ footer
 {
   font-size: 0.90em;
 }
+
+img
+{
+width: 3%;
+}
 }
 
 
@@ -154,6 +179,11 @@ footer
 footer 
 {
   font-size: 0.85em;
+}
+
+img
+{
+width: 3.5%;
 }
 }
 
@@ -180,6 +210,11 @@ footer
 {
   font-size: 0.80em;
 }
+
+img
+{
+width: 4%;
+}
 }
 
 
@@ -204,6 +239,10 @@ footer
 footer 
 {
   font-size: 0.85em;
+}
+img
+{
+width: 4.5%;
 }
 }
 
@@ -230,6 +269,10 @@ footer
 {
   font-size: 0.80em;
 }
+img
+{
+width: 5%;
+}
 }
 
 
@@ -254,6 +297,10 @@ footer
 footer 
 {
   font-size: 0.75em;
+}
+img
+{
+width: 5.25%;
 }
 }
 
@@ -280,6 +327,10 @@ footer
 {
   font-size: 0.70em;
 }
+img
+{
+width: 5.5%;
+}
 }
 
 
@@ -304,6 +355,10 @@ footer
 footer 
 {
   font-size: 0.65em;
+}
+img
+{
+width: 5.75%;
 }
 }
 
@@ -330,6 +385,10 @@ footer
 {
   font-size: 0.60em;
 }
+img
+{
+width: 5.75%;
+}
 }
 
 
@@ -354,6 +413,10 @@ footer
 footer 
 {
   font-size: 0.55em;
+}
+img
+{
+width: 6%;
 }
 }
 
@@ -380,6 +443,10 @@ footer
 {
   font-size: 0.50em;
 }
+img
+{
+width: 6%;
+}
 }
 
 
@@ -404,6 +471,11 @@ footer
 footer 
 {
   font-size: 0.45em;
+}
+
+img
+{
+width: 6%;
 }
 }
 
@@ -430,6 +502,10 @@ footer
 footer 
 {
   font-size: 0.40em;
+}
+img
+{
+width: 6%;
 }
 }
 
@@ -632,10 +708,9 @@ footer {
                height: 70px;
              }
 
-
              img
              {
               float: left;
-              width: 4%;
               padding-left: 3%;
+              max-width: 3.5%;
              }
