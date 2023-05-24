@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://cucin-italiana.netlify.app/</loc>
@@ -22,46 +20,5 @@
   <lastmod>2023-05-24T12:46:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/gnocchi.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/milanaise.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/bolognaise.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/carbonara.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/saltimbocca.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/ravioli.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/pizze.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cucin-italiana.netlify.app/lasagnes.html</loc>
-  <lastmod>2023-05-24T12:46:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>
