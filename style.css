@@ -18,7 +18,7 @@
                font-size: 5em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 3.5em;
 }
@@ -48,7 +48,7 @@ width: 2.5%;
                font-size: 4.75em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 3.3em;
 }
@@ -82,7 +82,7 @@ width: 2.25%;
                font-size: 3.5em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 3.1em;
 }
@@ -112,7 +112,7 @@ width: 2.25%;
                font-size: 3.25em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 3.1em;
 }
@@ -142,7 +142,7 @@ width: 2.75%;
                font-size: 3em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 3em;
 }
@@ -172,7 +172,7 @@ width: 3%;
                font-size: 3em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 2.7em;
 }
@@ -202,7 +202,7 @@ width: 3.5%;
                font-size: 2.5em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 2.7em;
 }
@@ -232,7 +232,7 @@ width: 4%;
                font-size: 2.35em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 2.5em;
 }
@@ -261,7 +261,7 @@ width: 4.5%;
                font-size: 2.1em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 2em;
 }
@@ -290,7 +290,7 @@ width: 5%;
                font-size: 1.85em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.9em;
 }
@@ -319,7 +319,7 @@ width: 5.25%;
                font-size: 1.6em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.7em;
 }
@@ -348,7 +348,7 @@ width: 5.5%;
                font-size: 1.35em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.7em;
 }
@@ -377,7 +377,7 @@ width: 5.75%;
                font-size: 1.05em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.6em;
 }
@@ -406,7 +406,7 @@ width: 5.75%;
                font-size: 1em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.5em;
 }
@@ -435,7 +435,7 @@ width: 6%;
                font-size: 0.95em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1.2em;
 }
@@ -464,7 +464,7 @@ width: 6%;
                font-size: 0.90em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1em;
 }
@@ -494,7 +494,7 @@ width: 6%;
                font-size: 0.85em;
 }
 
-#texte1, #citation
+#texte1, blockquote
 {
                font-size: 1em;
 }

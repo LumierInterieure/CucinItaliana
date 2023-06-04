@@ -18,7 +18,7 @@
                font-size: 5.75em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.5em;
 }
@@ -48,7 +48,7 @@ footer
                font-size: 5.25em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.5em;
 }
@@ -82,7 +82,7 @@ footer
                font-size: 4em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.5em;
 }
@@ -112,7 +112,7 @@ footer
                font-size: 3.75em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.5em;
 }
@@ -142,7 +142,7 @@ footer
                font-size: 3.5em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.7em;
 }
@@ -172,7 +172,7 @@ footer
                font-size: 3.2em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.7em;
 }
@@ -202,7 +202,7 @@ footer
                font-size: 2.6em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.6em;
 }
@@ -232,7 +232,7 @@ footer
                font-size: 2.35em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.35em;
 }
@@ -262,7 +262,7 @@ footer
                font-size: 2.1em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.35em;
 }
@@ -292,7 +292,7 @@ footer
                font-size: 1.85em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.1em;
 }
@@ -322,7 +322,7 @@ footer
                font-size: 1.6em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.1em;
 }
@@ -352,7 +352,7 @@ footer
                font-size: 1.35em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 1.1em;
 }
@@ -382,7 +382,7 @@ footer
                font-size: 1.05em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 0.95em;
 }
@@ -412,7 +412,7 @@ footer
                font-size: 1em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 0.85em;
 }
@@ -442,7 +442,7 @@ footer
                font-size: 0.95em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 0.85em;
 }
@@ -472,7 +472,7 @@ footer
                font-size: 0.90em;
 }
 
-#texte, #citation
+#texte, blockquote
 {
                font-size: 0.85em;
 }
@@ -503,7 +503,7 @@ footer
               }
 
 
-#texte
+#texte, blockquote
 {
                font-size: 0.85em;
 }
@@ -613,7 +613,7 @@ article
   border: 2px solid #ffffff;
 }
 
-#citation
+blockquote
 {
   text-align: center;
   font-family: Dancing Script, 'Courier New', Courier, monospace;
